@@ -1,0 +1,9 @@
+{
+  "id": "092",
+  "name": "Gastly",
+  "icon": "rhydon",
+  "primary_type": "ghost",
+  "secondary_type": "poison",
+  "base_stats": [ 30, 35, 30, 100, 35, 80 ],
+  "moves": [ "Lick", "Confuse_ray", "Hypnosis", "Toxic", "Mega_drain", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Self_destruct", "Explosion" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "089",
+  "name": "Muk",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 105, 105, 75, 65, 100, 50 ],
+  "moves": [ "Pound", "Poison_gas", "Minimize", "Sludge", "Harden", "Screech", "Acid_armor", "Toxic", "Body_slam", "Mega_drain", "Thunderbolt", "Thunder", "Double_team", "Self_destruct", "Fire_blast", "Explosion" ]
+}

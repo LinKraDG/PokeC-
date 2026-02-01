@@ -1,0 +1,9 @@
+{
+  "id": "038",
+  "name": "Ninetales",
+  "icon": "tauros",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 73, 76, 75, 81, 100, 100 ],
+  "moves": [ "Ember", "Tail_whip", "Quick_attack", "Agility", "Confuse_ray", "Flamethrower", "Toxic", "Body_slam", "Take_down", "Double_edge", "Double_team", "Fire_blast", "Swift" ]
+}

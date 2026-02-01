@@ -1,0 +1,9 @@
+{
+  "id": "126",
+  "name": "Magmar",
+  "icon": "rhydon",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 65, 95, 57, 100, 85, 93 ],
+  "moves": [ "Ember", "Leer", "Confuse_ray", "Fire_punch", "Smoke_screen", "Smog", "Flamethrower", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Psychic", "Double_team", "Fire_blast", "Strength" ]
+}

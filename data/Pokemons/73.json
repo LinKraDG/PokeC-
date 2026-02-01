@@ -1,0 +1,9 @@
+{
+  "id": "073",
+  "name": "Tentacruel",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "poison",
+  "base_stats": [ 80, 70, 65, 80, 120, 100 ],
+  "moves": [ "Acid", "Supersonic", "Poison_sting", "Water_gun", "Constrict", "Screech", "Hydro_pump", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Mega_drain", "Double_team", "Cut", "Surf" ]
+}

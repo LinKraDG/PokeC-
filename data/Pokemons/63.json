@@ -1,0 +1,9 @@
+{
+  "id": "063",
+  "name": "Abra",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 25, 20, 15, 105, 55, 90 ],
+  "moves": [ "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Earthquake", "Psychic", "Double_team", "Thunder_wave", "Flash" ]
+}

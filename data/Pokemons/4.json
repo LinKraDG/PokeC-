@@ -1,0 +1,9 @@
+{
+  "id": "004",
+  "name": "Charmander",
+  "icon": "rhydon",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 39, 52, 43, 60, 50, 65 ],
+  "moves": [ "Scratch", "Growl", "Ember", "Leer", "Slash", "Flamethrower", "Mega_punch", "Mega_kick", "Submission", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Fire_blast", "Swift", "Double_team", "Strength", "Cut" ]
+}

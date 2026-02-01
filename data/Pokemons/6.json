@@ -1,0 +1,9 @@
+{
+  "id": "006",
+  "name": "Charizard",
+  "icon": "rhydon",
+  "primary_type": "fire",
+  "secondary_type": "flying",
+  "base_stats": [ 78, 84, 78, 109, 85, 100 ],
+  "moves": [ "Scratch", "Growl", "Ember", "Leer", "Slash", "Flamethrower", "Mega_punch", "Mega_kick", "Submission", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Fire_blast", "Swift", "Double_team", "Strength", "Cut" ]
+}

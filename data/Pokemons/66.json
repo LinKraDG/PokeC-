@@ -1,0 +1,9 @@
+{
+  "id": "066",
+  "name": "Machop",
+  "icon": "rhydon",
+  "primary_type": "fighting",
+  "secondary_type": "null",
+  "base_stats": [ 70, 80, 50, 35, 35, 35 ],
+  "moves": [ "Low_kick", "Leer", "Karate_chop", "Tackle", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Earthquake", "Double_team", "Fire_blast", "Rock_slide", "Strength" ]
+}

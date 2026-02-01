@@ -1,0 +1,9 @@
+{
+  "id": "087",
+  "name": "Dewgong",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "ice",
+  "base_stats": [ 90, 70, 80, 70, 95, 70 ],
+  "moves": [ "Headbutt", "Growl", "Aurora_beam", "Take_down", "Ice_beam", "Toxic", "Body_slam", "Double_edge", "Bubble_beam", "Water_gun", "Blizzard", "Pay_day", "Double_team", "Surf", "Strength" ]
+}

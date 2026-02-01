@@ -1,0 +1,13 @@
+{
+  "name": "Malicioso",
+  "type": "normal",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 100,
+  "max_pp": 30,
+  "priority": 0,
+  "effect_type": "enemy_stat",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": [ 0, 0, -1, 0, 0, 0, 0, 0 ]
+}

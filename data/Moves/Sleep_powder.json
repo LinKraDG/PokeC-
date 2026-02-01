@@ -1,0 +1,13 @@
+{
+  "name": "Somnífero",
+  "type": "grass",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 75,
+  "max_pp": 15,
+  "priority": 0,
+  "effect_type": "status_problem",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": "asleep"
+}

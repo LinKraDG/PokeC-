@@ -1,0 +1,9 @@
+{
+  "id": "097",
+  "name": "Hypno",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 85, 73, 70, 73, 115, 67 ],
+  "moves": [ "Pound", "Hypnosis", "Confusion", "Headbutt", "Poison_gas", "Psychic", "Meditate", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Double_team", "Thunder_wave", "Flash" ]
+}

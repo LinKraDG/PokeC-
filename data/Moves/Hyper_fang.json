@@ -1,0 +1,22 @@
+{
+  "name": "Hipercolmillo",
+  "type": "normal",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 90,
+  "max_pp": 15,
+  "priority": 0,
+  "contact": true,
+  "have_additional_effect": true,
+  "additional_effect": "status_change",
+  "additional_effect_stats_amount": null,
+  "status_effect": "flinch",
+  "additional_effect_prob": 10,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

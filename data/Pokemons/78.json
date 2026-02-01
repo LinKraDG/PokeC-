@@ -1,0 +1,9 @@
+{
+  "id": "078",
+  "name": "Rapidash",
+  "icon": "tauros",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 65, 100, 70, 80, 80, 105 ],
+  "moves": [ "Ember", "Tail_whip", "Stomp", "Growl", "Take_down", "Agility", "Toxic", "Body_slam", "Double_edge", "Double_team", "Fire_blast", "Swift" ]
+}

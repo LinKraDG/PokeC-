@@ -1,0 +1,9 @@
+{
+  "id": "147",
+  "name": "Dratini",
+  "icon": "snake",
+  "primary_type": "dragon",
+  "secondary_type": "null",
+  "base_stats": [ 40, 64, 45, 50, 50, 50 ],
+  "moves": [ "Leer", "Agility", "Thunder_wave", "Slam", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Double_team", "Fire_blast", "Swift", "Surf" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "070",
+  "name": "Weepinbell",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 65, 90, 50, 85, 45, 55 ],
+  "moves": [ "Vine_whip", "Growth", "Poison_powder", "Sleep_powder", "Stun_spore", "Acid", "Razor_leaf", "Slam", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

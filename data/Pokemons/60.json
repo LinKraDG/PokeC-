@@ -1,0 +1,9 @@
+{
+  "id": "060",
+  "name": "Poliwag",
+  "icon": "rhydon",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 40, 50, 40, 40, 40, 90 ],
+  "moves": [ "Bubble", "Hypnosis", "Water_gun", "Body_slam", "Amnesia", "Hydro_pump", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Psychic", "Double_team", "Surf" ]
+}

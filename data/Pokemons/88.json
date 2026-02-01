@@ -1,0 +1,9 @@
+{
+  "id": "088",
+  "name": "Grimer",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 80, 80, 50, 40, 50, 25 ],
+  "moves": [ "Pound", "Poison_gas", "Minimize", "Sludge", "Harden", "Screech", "Acid_armor", "Toxic", "Body_slam", "Mega_drain", "Thunderbolt", "Thunder", "Double_team", "Self_destruct", "Fire_blast", "Explosion" ]
+}

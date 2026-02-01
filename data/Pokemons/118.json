@@ -1,0 +1,9 @@
+{
+  "id": "118",
+  "name": "Goldeen",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 45, 67, 60, 35, 50, 63 ],
+  "moves": [ "Peck", "Tail_whip", "Supersonic", "Horn_attack", "Waterfall", "Agility", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Double_team", "Swift", "Rock_slide", "Surf" ]
+}

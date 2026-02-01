@@ -1,0 +1,9 @@
+{
+  "id": "034",
+  "name": "Nidoking",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "ground",
+  "base_stats": [ 59, 63, 80, 65, 80, 58 ],
+  "moves": [ "Tackle", "Leer", "Horn_attack", "Poison_sting", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Thunderbolt", "Thunder", "Earthquake", "Double_team", "Fire_blast", "Rock_slide", "Surf", "Strength" ]
+}

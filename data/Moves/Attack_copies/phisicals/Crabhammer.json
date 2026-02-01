@@ -1,0 +1,22 @@
+{
+  "name": "Martillazo",
+  "type": "water",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 90,
+  "max_pp": 10,
+  "priority": 0,
+  "contact": true,
+  "have_additional_effect": false,
+  "additional_effect": null,
+  "additional_effect_stats_amount": null,
+  "status_effect": null,
+  "additional_effect_prob": null,
+  "critical_bonus": true,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

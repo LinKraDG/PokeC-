@@ -1,0 +1,6 @@
+{
+  "attack_tipe": "steel",
+  "effective": [ "ice", "rock", "fairy" ],
+  "uneffective": [ "fire", "water", "electric", "steel" ],
+  "no_effect": []
+}

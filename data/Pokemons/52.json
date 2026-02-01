@@ -1,0 +1,9 @@
+{
+  "id": "052",
+  "name": "Meowth",
+  "icon": "rhydon",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 40, 45, 35, 40, 40, 90 ],
+  "moves": [ "Scratch", "Growl", "Bite", "Pay_day", "Screech", "Slash", "Toxic", "Thunderbolt", "Thunder", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Double_team", "Swift" ]
+}

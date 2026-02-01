@@ -1,0 +1,9 @@
+{
+  "id": "106",
+  "name": "Hitmonlee",
+  "icon": "rhydon",
+  "primary_type": "fighting",
+  "secondary_type": "null",
+  "base_stats": [ 50, 120, 53, 35, 110, 87 ],
+  "moves": [ "Meditate", "Rolling_kick", "Mega_kick", "Mega_punch", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Double_team", "Swift", "Strength" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "003",
+  "name": "Venusaur",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 80, 82, 83, 100, 100, 80 ],
+  "moves": [ "Tackle", "Growl", "Vine_whip", "Poison_powder", "Razor_leaf", "Growth", "Sleep_powder", "Sword dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut", "Amnesia", "Earthquake" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "115",
+  "name": "Kangaskhan",
+  "icon": "rhydon",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 105, 95, 80, 40, 80, 90 ],
+  "moves": [ "Bite", "Tail_whip", "Mega_punch", "Leer", "Dizzy_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Thunderbolt", "Thunder", "Earthquake", "Double_team", "Fire_blast", "Rock_slide", "Surf", "Strength" ]
+}

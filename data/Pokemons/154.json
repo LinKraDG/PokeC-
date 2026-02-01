@@ -1,0 +1,8 @@
+{
+  "id": "152",
+  "name": "Bulbasaur_prueba",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 45, 49, 49, 65, 65, 45 ],
+  "moves": [ "Acid_armor", "Agility", "Double_team", "Flash", "Poison_powder", "Sing", "Absorb", "Sleep_powder", "Bite", "Sword_dance", "Toxic", "Body_slam", "Acid", "Double_edge" ]
+}

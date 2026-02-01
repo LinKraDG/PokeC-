@@ -1,0 +1,9 @@
+{
+  "id": "130",
+  "name": "Gyarados",
+  "icon": "snake",
+  "primary_type": "water",
+  "secondary_type": "flying",
+  "base_stats": [ 95, 125, 79, 60, 100, 81 ],
+  "moves": [ "Tackle", "Bite", "Hydro_pump", "Leer", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Double_team", "Fire_blast", "Surf", "Strength" ]
+}

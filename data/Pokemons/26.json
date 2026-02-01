@@ -1,0 +1,9 @@
+{
+  "id": "026",
+  "name": "Raichu",
+  "icon": "clefairy",
+  "primary_type": "electric",
+  "secondary_type": "null",
+  "base_stats": [ 35, 55, 40, 50, 50, 90 ],
+  "moves": [ "Thunder_shock", "Growl", "Tail_whip", "Thunder_wave", "Quick_attack", "Double_team", "Slam", "Thunderbolt", "Agility", "Thunder", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Pay_day", "Submission", "Swift", "Flash" ]
+}

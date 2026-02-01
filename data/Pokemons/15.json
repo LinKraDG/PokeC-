@@ -1,0 +1,9 @@
+{
+  "id": "015",
+  "name": "Beedrill",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "poison",
+  "base_stats": [ 65, 90, 40, 45, 80, 75 ],
+  "moves": [ "Poison_sting", "String_shot", "Harden", "Double_team", "Agility", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Swift", "Cut" ]
+}

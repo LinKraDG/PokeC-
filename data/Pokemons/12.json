@@ -1,0 +1,9 @@
+{
+  "id": "012",
+  "name": "Butterfree",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "flying",
+  "base_stats": [ 60, 45, 50, 90, 80, 70 ],
+  "moves": [ "Tackle", "String_shot", "Harden", "Gust", "Supersonic", "Confusion", "Poison_powder", "Stun_spore", "Sleep_powder", "Psybeam", "Toxic", "Take_down", "Double_edge", "Psychic", "Mega_drain", "Swift", "Double_team", "Flash" ]
+}

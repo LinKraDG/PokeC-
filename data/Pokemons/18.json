@@ -1,0 +1,9 @@
+{
+  "id": "018",
+  "name": "Pidgeot",
+  "icon": "bird",
+  "primary_type": "normal",
+  "secondary_type": "flying",
+  "base_stats": [ 83, 80, 75, 70, 70, 101 ],
+  "moves": [ "Gust", "Sand_attack", "Quick_attack", "Wing_attack", "Agility", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Double_team", "Swift" ]
+}

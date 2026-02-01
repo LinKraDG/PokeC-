@@ -1,0 +1,9 @@
+{
+  "id": "105",
+  "name": "Marowak",
+  "icon": "rhydon",
+  "primary_type": "ground",
+  "secondary_type": "null",
+  "base_stats": [ 60, 80, 110, 50, 80, 45 ],
+  "moves": [ "Growl", "Bone_club", "Tail_whip", "Headbutt", "Leer", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Earthquake", "Double_team", "Fire_blast", "Strength" ]
+}

@@ -1,0 +1,7 @@
+
+{
+  "attack_tipe": "flying",
+  "effective": [ "grass", "fighting", "bug" ],
+  "uneffective": [ "electric", "rock", "steel" ],
+  "no_effect": []
+}

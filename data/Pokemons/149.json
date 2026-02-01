@@ -1,0 +1,9 @@
+{
+  "id": "149",
+  "name": "Dragonite",
+  "icon": "snake",
+  "primary_type": "dragon",
+  "secondary_type": "flying",
+  "base_stats": [ 91, 134, 95, 100, 100, 80 ],
+  "moves": [ "Leer", "Agility", "Thunder_wave", "Slam", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Double_team", "Fire_blast", "Swift", "Surf", "Strength" ]
+}

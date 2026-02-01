@@ -1,0 +1,9 @@
+{
+  "id": "010",
+  "name": "Caterpie",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "null",
+  "base_stats": [ 45, 30, 35, 20, 20, 45 ],
+  "moves": [ "Tackle", "String_shot" ]
+}

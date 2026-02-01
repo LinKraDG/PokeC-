@@ -1,0 +1,13 @@
+{
+  "name": "Canto",
+  "type": "normal",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 55,
+  "max_pp": 15,
+  "priority": 0,
+  "effect_type": "status_problem",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": "asleep"
+}

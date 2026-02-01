@@ -1,0 +1,9 @@
+{
+  "id": "001",
+  "name": "Bulbasaur",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 45, 49, 49, 65, 65, 45 ],
+  "moves": [ "Tackle", "Growl", "Vine_whip", "Poison_powder", "Razor_leaf", "Growth", "Sleep_powder", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

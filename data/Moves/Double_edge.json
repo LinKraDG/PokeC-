@@ -1,0 +1,22 @@
+{
+  "name": "Doble filo",
+  "type": "normal",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "max_pp": 15,
+  "priority": 0,
+  "contact": true,
+  "have_additional_effect": false,
+  "additional_effect": null,
+  "additional_effect_stats_amount": null,
+  "status_effect": null,
+  "additional_effect_prob": null,
+  "critical_bonus": false,
+  "have_recoil": true,
+  "recoil_base_damage": "objective",
+  "recoil_amount": 33,
+  "multi_turn": false,
+  "multi_hit": false
+}

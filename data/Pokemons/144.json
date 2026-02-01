@@ -1,0 +1,9 @@
+{
+  "id": "144",
+  "name": "Articuno",
+  "icon": "bird",
+  "primary_type": "ice",
+  "secondary_type": "flying",
+  "base_stats": [ 90, 85, 100, 95, 125, 85 ],
+  "moves": [ "Peck", "Ice_beam", "Blizzard", "Agility", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Double_team", "Swift" ]
+}

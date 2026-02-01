@@ -1,0 +1,22 @@
+{
+  "name": "Absorber",
+  "type": "grass",
+  "objective": "enemy",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "max_pp": 25,
+  "priority": 0,
+  "contact": false,
+  "have_additional_effect": true,
+  "additional_effect": "heal",
+  "additional_effect_stats_amount": null,
+  "status_effect": null,
+  "additional_effect_prob": null,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": "objective",
+  "recoil_amount": 50,
+  "multi_turn": false,
+  "multi_hit": false
+}

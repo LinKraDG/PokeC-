@@ -1,0 +1,6 @@
+{
+  "attack_tipe": "fighting",
+  "effective": [ "normal", "ice", "rock", "dark", "steel" ],
+  "uneffective": [ "poison", "flying", "psychic", "bug", "fairy" ],
+  "no_effect": [ "ghost" ]
+}

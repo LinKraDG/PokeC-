@@ -1,0 +1,9 @@
+{
+  "id": "137",
+  "name": "Porygon",
+  "icon": "rhydon",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 65, 60, 70, 85, 75, 40 ],
+  "moves": [ "Tackle", "Sharpen", "Psybeam", "Recover", "Agility", "Toxic", "Take_down", "Double_edge", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Swift", "Thunder_wave", "Flash" ]
+}

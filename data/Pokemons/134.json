@@ -1,0 +1,9 @@
+{
+  "id": "134",
+  "name": "Vaporeon",
+  "icon": "tauros",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 130, 65, 60, 110, 95, 65 ],
+  "moves": [ "Tail_whip", "Tackle", "Sand_attack", "Growl", "Quick_attack", "Bite", "Water_gun", "Aurora_beam", "Acid_armor", "Hydro_pump", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Double_team", "Swift", "Surf" ]
+}

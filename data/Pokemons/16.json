@@ -1,0 +1,9 @@
+{
+  "id": "016",
+  "name": "Pidgey",
+  "icon": "bird",
+  "primary_type": "normal",
+  "secondary_type": "flying",
+  "base_stats": [ 40, 45, 40, 35, 35, 56 ],
+  "moves": [ "Gust", "Sand_attack", "Quick_attack", "Wing_attack", "Agility", "Toxic", "Take_down", "Double_edge", "Double_team", "Swift" ]
+}

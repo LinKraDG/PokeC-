@@ -1,0 +1,9 @@
+{
+  "id": "054",
+  "name": "Psyduck",
+  "icon": "rhydon",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 50, 52, 48, 65, 50, 55 ],
+  "moves": [ "Scratch", "Tail_whip", "Confusion", "Hydro_pump", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Double_team", "Swift", "Surf", "Strength" ]
+}

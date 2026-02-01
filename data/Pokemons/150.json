@@ -1,0 +1,9 @@
+{
+  "id": "150",
+  "name": "Mewtwo",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 106, 110, 90, 154, 90, 130 ],
+  "moves": [ "Confusion", "Recover", "Amnesia", "Mega_punch", "Psychic", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Self_destruct", "Fire_blast", "Swift", "Thunder_wave", "Strength", "Flash" ]
+}

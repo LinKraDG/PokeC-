@@ -1,0 +1,22 @@
+{
+  "name": "Avalancha",
+  "type": "rock",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 90,
+  "max_pp": 10,
+  "priority": 0,
+  "contact": false,
+  "have_additional_effect": true,
+  "additional_effect": "status_change",
+  "additional_effect_stats_amount": null,
+  "status_effect": "flinch",
+  "additional_effect_prob": 30,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

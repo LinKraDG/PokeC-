@@ -1,0 +1,9 @@
+{
+  "id": "032",
+  "name": "Nidoran",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 46, 57, 40, 40, 40, 50 ],
+  "moves": [ "Tackle", "Leer", "Horn_attack", "Poison_sting", "Toxic", "Body_slam", "Take_down", "Double_edge", "Blizzard", "Thunderbolt", "Thunder", "Double_team" ]
+}

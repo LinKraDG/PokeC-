@@ -1,0 +1,22 @@
+{
+  "name": "Látigo cepa",
+  "type": "grass",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 45,
+  "accuracy": 100,
+  "max_pp": 25,
+  "priority": 0,
+  "contact": true,
+  "have_additional_effect": false,
+  "additional_effect": null,
+  "additional_effect_stats_amount": null,
+  "status_effect": null,
+  "additional_effect_prob": null,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "148",
+  "name": "Dragonair",
+  "icon": "snake",
+  "primary_type": "dragon",
+  "secondary_type": "null",
+  "base_stats": [ 61, 84, 65, 70, 70, 70 ],
+  "moves": [ "Leer", "Agility", "Thunder_wave", "Slam", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Double_team", "Fire_blast", "Swift", "Surf" ]
+}

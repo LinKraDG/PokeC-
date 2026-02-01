@@ -1,0 +1,9 @@
+{
+  "id": "061",
+  "name": "Poliwhirl",
+  "icon": "rhydon",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 65, 65, 65, 50, 50, 90 ],
+  "moves": [ "Bubble", "Hypnosis", "Water_gun", "Body_slam", "Amnesia", "Hydro_pump", "Mega_punch", "Mega_kick", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Submission", "Earthquake", "Psychic", "Double_team", "Surf", "Strength" ]
+}

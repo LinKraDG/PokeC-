@@ -1,0 +1,9 @@
+{
+  "id": "094",
+  "name": "Gengar",
+  "icon": "rhydon",
+  "primary_type": "ghost",
+  "secondary_type": "poison",
+  "base_stats": [ 60, 65, 60, 130, 75, 110 ],
+  "moves": [ "Lick", "Confuse_ray", "Hypnosis", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Mega_drain", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Self_destruct", "Explosion", "Strength" ]
+}

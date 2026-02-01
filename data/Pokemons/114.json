@@ -1,0 +1,9 @@
+{
+  "id": "114",
+  "name": "Tangela",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "null",
+  "base_stats": [ 65, 55, 115, 100, 40, 60 ],
+  "moves": [ "Absorb", "Vine_whip", "Poison_powder", "Stun_spore", "Sleep_powder", "Slam", "Growth", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

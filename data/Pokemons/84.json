@@ -1,0 +1,9 @@
+{
+  "id": "084",
+  "name": "Doduo",
+  "icon": "bird",
+  "primary_type": "normal",
+  "secondary_type": "flying",
+  "base_stats": [ 35, 85, 45, 35, 35, 75 ],
+  "moves": [ "Peck", "Growl", "Drill_peck", "Agility", "Toxic", "Body_slam", "Take_down", "Double_edge", "Double_team" ]
+}

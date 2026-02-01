@@ -1,0 +1,9 @@
+{
+  "id": "053",
+  "name": "Persian",
+  "icon": "rhydon",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 65, 70, 60, 65, 65, 115 ],
+  "moves": [ "Scratch", "Growl", "Bite", "Pay_day", "Screech", "Slash", "Toxic", "Thunderbolt", "Thunder", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Double_team", "Swift" ]
+}

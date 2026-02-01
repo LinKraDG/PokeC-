@@ -1,0 +1,9 @@
+{
+  "id": "046",
+  "name": "Paras",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "grass",
+  "base_stats": [ 35, 70, 55, 45, 55, 25 ],
+  "moves": [ "Scratch", "Stun_spore", "Leech_life", "Spore", "Slash", "Growth", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

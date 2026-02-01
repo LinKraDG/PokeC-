@@ -1,0 +1,9 @@
+{
+  "id": "040",
+  "name": "Wigglytuff",
+  "icon": "clefairy",
+  "primary_type": "normal",
+  "secondary_type": "fairy",
+  "base_stats": [ 140, 70, 45, 85, 50, 45 ],
+  "moves": [ "Sing", "Pound", "Defense_curl", "Body_slam", "Double_edge", "Mega_punch", "Mega_kick", "Toxic", "Take_down", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Fire_blast", "Thunder_wave", "Strength", "Flash" ]
+}

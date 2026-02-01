@@ -1,0 +1,9 @@
+{
+  "id": "141",
+  "name": "Kabutops",
+  "icon": "shell",
+  "primary_type": "rock",
+  "secondary_type": "water",
+  "base_stats": [ 60, 115, 105, 65, 70, 80 ],
+  "moves": [ "Scratch", "Harden", "Absorb", "Slash", "Sand_attack", "Leer", "Leech_life", "Hydro_pump", "Sword_dance", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Double_team", "Cut", "Surf" ]
+}

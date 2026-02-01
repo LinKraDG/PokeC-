@@ -1,0 +1,9 @@
+{
+  "id": "112",
+  "name": "Rhydon",
+  "icon": "rhydon",
+  "primary_type": "ground",
+  "secondary_type": "rock",
+  "base_stats": [ 105, 130, 120, 45, 45, 40 ],
+  "moves": [ "Tackle", "Horn_attack", "Stomp", "Tail_whip", "Leer", "Take_down", "Earthquake", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Thunderbolt", "Thunder", "Double_team", "Fire_blast", "Rock_slide", "Surf", "Strength" ]
+}

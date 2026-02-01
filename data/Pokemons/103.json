@@ -1,0 +1,9 @@
+{
+  "id": "103",
+  "name": "Exeggcutor",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "psychic",
+  "base_stats": [ 95, 95, 85, 125, 86, 55 ],
+  "moves": [ "Hypnosis", "Stomp", "Stun_spore", "Poison_powder", "Sleep_Powder", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Psychic", "Double_team", "Self_destruct", "Egg_bomb", "Explosion", "Strength" ]
+}

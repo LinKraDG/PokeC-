@@ -1,0 +1,9 @@
+{
+  "id": "133",
+  "name": "Eevee",
+  "icon": "tauros",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 55, 55, 50, 45, 65, 55 ],
+  "moves": [ "Tail_whip", "Tackle", "Sand_attack", "Growl", "Quick_attack", "Bite", "Toxic", "Body_slam", "Take_down", "Double_edge", "Double_team", "Swift" ]
+}

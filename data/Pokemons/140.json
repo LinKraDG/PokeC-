@@ -1,0 +1,9 @@
+{
+  "id": "140",
+  "name": "Kabuto",
+  "icon": "shell",
+  "primary_type": "rock",
+  "secondary_type": "water",
+  "base_stats": [ 30, 80, 90, 55, 45, 55 ],
+  "moves": [ "Scratch", "Harden", "Absorb", "Slash", "Leer", "Hydro_pump", "Sword_dance", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Double_team", "Surf" ]
+}

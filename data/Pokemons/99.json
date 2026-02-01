@@ -1,0 +1,9 @@
+{
+  "id": "099",
+  "name": "Kingler",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 55, 130, 115, 50, 50, 75 ],
+  "moves": [ "Bubble", "Leer", "Vise_grip", "Stomp", "Crabhammer", "Harden", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Double_team", "Cut", "Surf", "Strength" ]
+}

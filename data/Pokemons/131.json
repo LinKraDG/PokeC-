@@ -1,0 +1,9 @@
+{
+  "id": "131",
+  "name": "Lapras",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "ice",
+  "base_stats": [ 130, 85, 80, 85, 95, 60 ],
+  "moves": [ "Growl", "Water_gun", "Sing", "Confuse_ray", "Hydro_pump", "Take_down", "Toxic", "Body_slam", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Surf", "Strength" ]
+}

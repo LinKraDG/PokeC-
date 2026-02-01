@@ -1,0 +1,9 @@
+{
+  "id": "127",
+  "name": "Pinsir",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "null",
+  "base_stats": [ 65, 125, 100, 55, 70, 85 ],
+  "moves": [ "Vise_grip", "Harden", "Strength", "Sword_dance", "Submission", "Toxic", "Body_slam", "Take_down", "Double_edge", "Double_team", "Cut", "Strength" ]
+}

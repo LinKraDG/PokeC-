@@ -1,0 +1,9 @@
+{
+  "id": "011",
+  "name": "Metapod",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "null",
+  "base_stats": [ 50, 20, 55, 25, 25, 30 ],
+  "moves": [ "Tackle", "String_shot", "Harden" ]
+}

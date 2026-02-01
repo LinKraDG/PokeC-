@@ -1,0 +1,9 @@
+{
+  "id": "057",
+  "name": "Primeape",
+  "icon": "rhydon",
+  "primary_type": "fighting",
+  "secondary_type": "null",
+  "base_stats": [ 65, 105, 60, 60, 70, 95 ],
+  "moves": [ "Scratch", "Leer", "Low_kick", "Karate_chop", "Screech", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Pay_day", "Submission", "Thunderbolt", "Thunder", "Double_team", "Swift", "Rock_slide", "Strength" ]
+}

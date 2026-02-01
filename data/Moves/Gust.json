@@ -1,0 +1,22 @@
+{
+  "name": "Tornado",
+  "type": "flying",
+  "objective": "enemy",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "max_pp": 35,
+  "priority": 0,
+  "contact": false,
+  "have_additional_effect": false,
+  "additional_effect": null,
+  "additional_effect_stats_amount": null,
+  "status_effect": null,
+  "additional_effect_prob": null,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

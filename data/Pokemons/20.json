@@ -1,0 +1,9 @@
+{
+  "id": "020",
+  "name": "Raticate",
+  "icon": "tauros",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 55, 81, 60, 50, 70, 97 ],
+  "moves": [ "Tackle", "Tail_whip", "Quick_attack", "Hyper_fang", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Double_team", "Blizzard", "Thunderbolt", "Thunder", "Swift" ]
+}

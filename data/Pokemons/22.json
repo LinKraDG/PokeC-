@@ -1,0 +1,9 @@
+{
+  "id": "022",
+  "name": "Fearow",
+  "icon": "bird",
+  "primary_type": "normal",
+  "secondary_type": "flying",
+  "base_stats": [ 65, 90, 65, 61, 61, 100 ],
+  "moves": [ "Peck", "Growl", "Leer", "Drill_peck", "Agility", "Toxic", "Take_down", "Double_edge", "Double_team", "Swift" ]
+}

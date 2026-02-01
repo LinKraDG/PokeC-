@@ -1,0 +1,10 @@
+{
+  "id": "055",
+  "name": "Golduck",
+  "icon": "rhydon",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 80, 82, 78, 95, 80, 85 ],
+  "moves": [ "Scratch", "Tail_whip", "Confusion", "Hydro_pump", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Double_team", "Swift", "Surf", "Strength" ]
+
+}

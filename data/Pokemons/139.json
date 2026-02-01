@@ -1,0 +1,9 @@
+{
+  "id": "139",
+  "name": "Omastar",
+  "icon": "shell",
+  "primary_type": "rock",
+  "secondary_type": "water",
+  "base_stats": [ 70, 60, 125, 115, 70, 55 ],
+  "moves": [ "Water_gun", "Withdraw", "Horn_attack", "Leer", "Hydro_pump", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Submission", "Double_team", "Surf" ]
+}

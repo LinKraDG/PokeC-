@@ -1,0 +1,9 @@
+{
+  "id": "119",
+  "name": "Seaking",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 80, 92, 65, 65, 80, 68 ],
+  "moves": [ "Peck", "Tail_whip", "Supersonic", "Horn_attack", "Waterfall", "Agility", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Double_team", "Swift", "Rock_slide", "Surf" ]
+}

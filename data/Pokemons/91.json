@@ -1,0 +1,9 @@
+{
+  "id": "091",
+  "name": "Cloyster",
+  "icon": "shell",
+  "primary_type": "water",
+  "secondary_type": "ice",
+  "base_stats": [ 50, 95, 180, 85, 45, 70 ],
+  "moves": [ "Tackle", "Withdraw", "Supersonic", "Aurora_beam", "Leer", "Ice_beam", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Blizzard", "Double_team", "Self_destruct", "Swift", "Explosion", "Surf" ]
+}

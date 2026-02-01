@@ -1,0 +1,9 @@
+{
+  "id": "124",
+  "name": "Jynx",
+  "icon": "rhydon",
+  "primary_type": "ice",
+  "secondary_type": "psychic",
+  "base_stats": [ 65, 50, 35, 115, 95, 95 ],
+  "moves": [ "Pound", "Lovely_kiss", "Lick", "Ice_punch", "Blizzard", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Submission", "Psychic", "Double_team" ]
+}

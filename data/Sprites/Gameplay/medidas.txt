@@ -1,0 +1,13 @@
+Espalda de Personajes:
+
+A. Medida Sprite disponible    :  32 x  32
+B. Medida Sprite necesario     :  64 x  64
+C. Medida Sprite redimensionado: 256 x 256
+
+px:
+ A   B   C
+1x1 2x2 8x8
+
+
+16x4 desde derecha
+8x4 desde arriba

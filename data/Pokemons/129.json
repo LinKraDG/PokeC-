@@ -1,0 +1,9 @@
+{
+  "id": "129",
+  "name": "Magikarp",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 20, 10, 55, 15, 20, 80 ],
+  "moves": [ "Tackle", "Hydro_pump" ]
+}

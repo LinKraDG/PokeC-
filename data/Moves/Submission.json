@@ -1,0 +1,22 @@
+{
+  "name": "Sumisión",
+  "type": "fighting",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 80,
+  "max_pp": 20,
+  "priority": 0,
+  "contact": true,
+  "have_additional_effect": false,
+  "additional_effect": null,
+  "additional_effect_stats_amount": null,
+  "status_effect": null,
+  "additional_effect_prob": null,
+  "critical_bonus": false,
+  "have_recoil": true,
+  "recoil_base_damage": "objective",
+  "recoil_amount": 25,
+  "multi_turn": false,
+  "multi_hit": false
+}

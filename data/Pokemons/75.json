@@ -1,0 +1,9 @@
+{
+  "id": "075",
+  "name": "Graveler",
+  "icon": "rhydon",
+  "primary_type": "rock",
+  "secondary_type": "ground",
+  "base_stats": [ 55, 95, 115, 45, 45, 35 ],
+  "moves": [ "Tackle", "Defense_curl", "Rock_throw", "Self_destruct", "Harden", "Earthquake", "Explosion", "Mega_punch", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Double_team", "Fire_blast", "Rock_slide", "Strength" ]
+}

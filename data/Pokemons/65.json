@@ -1,0 +1,9 @@
+{
+  "id": "065",
+  "name": "Alakazam",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 55, 50, 45, 135, 95, 120 ],
+  "moves": [ "Kinesis", "Confusion", "Psybeam", "Recover", "Psychic", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Earthquake", "Double_team", "Thunder_wave", "Flash" ]
+}

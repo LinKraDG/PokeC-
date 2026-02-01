@@ -1,0 +1,9 @@
+{
+  "id": "143",
+  "name": "Snorlax",
+  "icon": "rhydon",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 160, 110, 65, 65, 110, 30 ],
+  "moves": [ "Headbutt", "Amnesia", "Harden", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Thunderbolt", "Thunder", "Earthquake", "Psychic", "Double_team", "Self_destruct", "Fire_blast", "Rock_slide", "Surf", "Strength" ]
+}

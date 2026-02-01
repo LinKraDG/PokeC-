@@ -1,0 +1,9 @@
+{
+  "id": "072",
+  "name": "Tentacool",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "poison",
+  "base_stats": [ 40, 40, 35, 50, 100, 70 ],
+  "moves": [ "Acid", "Supersonic", "Poison_sting", "Water_gun", "Constrict", "Screech", "Hydro_pump", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Mega_drain", "Double_team", "Cut", "Surf" ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Armadura ácida",
+  "type": "poison",
+  "objective": "user",
+  "category": "status",
+  "accuracy": null,
+  "max_pp": 20,
+  "priority": 0,
+  "effect_type": "user_stat",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": [ 0, 0, 2, 0, 0, 0, 0, 0]
+}

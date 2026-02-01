@@ -1,0 +1,9 @@
+{
+  "id": "027",
+  "name": "Sandshrew",
+  "icon": "rhydon",
+  "primary_type": "ground",
+  "secondary_type": "null",
+  "base_stats": [ 50, 75, 85, 20, 30, 40 ],
+  "moves": [ "Scratch", "Sand_attack", "Slash", "Poison_sting", "Swift", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Earthquake", "Double_team", "Rock_slide", "Cut", "Strength" ]
+}

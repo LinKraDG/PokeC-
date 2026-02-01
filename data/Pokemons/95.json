@@ -1,0 +1,9 @@
+{
+  "id": "095",
+  "name": "Onix",
+  "icon": "snake",
+  "primary_type": "rock",
+  "secondary_type": "ground",
+  "base_stats": [ 35, 45, 160, 30, 45, 70 ],
+  "moves": [ "Tackle", "Screech", "Rock_throw", "Slam", "Harden", "Toxic", "Body_slam", "Take_down", "Double_edge", "Earthquake", "Double_team", "Self_destruct", "Explosion", "Rock_slide", "Strength" ]
+}

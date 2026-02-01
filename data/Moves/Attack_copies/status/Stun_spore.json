@@ -1,0 +1,13 @@
+{
+  "name": "Paralizador",
+  "type": "grass",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 75,
+  "max_pp": 30,
+  "priority": 0,
+  "effect_type": "status_problem",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": "paralyzed"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "082",
+  "name": "Magnetone",
+  "icon": "ball",
+  "primary_type": "electric",
+  "secondary_type": "steel",
+  "base_stats": [ 50, 60, 95, 120, 70, 70 ],
+  "moves": [ "Tackle", "Thunder_shock", "Supersonic", "Thunder_wave", "Swift", "Screech", "Toxic", "Take_down", "Double_edge", "Thunderbolt", "Thunder", "Double_team", "Flash" ]
+}

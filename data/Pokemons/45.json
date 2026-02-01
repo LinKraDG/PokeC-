@@ -1,0 +1,9 @@
+{
+  "id": "045",
+  "name": "Vileplume",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 75, 80, 85, 110, 90, 50 ],
+  "moves": [ "Absorb", "Poison_powder", "Stun_spore", "Sleep_powder", "Acid", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

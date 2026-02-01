@@ -1,0 +1,6 @@
+{
+  "attack_type": "normal",
+  "effective": [],
+  "uneffective": [ "rock", "steel" ],
+  "no_effect": [ "ghost" ]
+}

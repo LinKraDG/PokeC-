@@ -1,0 +1,9 @@
+{
+  "id": "151",
+  "name": "Mew",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 100, 100, 100, 100, 100, 100 ],
+  "moves": [ "Pound", "Mega_punch", "Psychic", "Razor_wind", "Sword_dance", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Mega_drain", "Thunderbolt", "Thunder", "Earthquake", "Psychic", "Double_team", "Self_destruct", "Egg_bomb", "Fire_blast", "Swift", "Thunder_wave", "Explosion", "Rock_slide", "Cut", "Surf", "Strength", "Flash" ]
+}

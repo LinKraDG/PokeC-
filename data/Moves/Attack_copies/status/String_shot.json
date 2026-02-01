@@ -1,0 +1,13 @@
+{
+  "name": "Disparo demora",
+  "type": "bug",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 95,
+  "max_pp": 40,
+  "priority": 0,
+  "effect_type": "enemy_stat",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": [ 0, 0, 0, 0, 0, 2, 0, 0 ]
+}

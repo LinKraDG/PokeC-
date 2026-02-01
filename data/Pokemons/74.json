@@ -1,0 +1,9 @@
+{
+  "id": "074",
+  "name": "Geodude",
+  "icon": "rhydon",
+  "primary_type": "rock",
+  "secondary_type": "ground",
+  "base_stats": [ 40, 80, 100, 30, 30, 20 ],
+  "moves": [ "Tackle", "Defense_curl", "Rock_throw", "Self_destruct", "Harden", "Earthquake", "Explosion", "Mega_punch", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Double_team", "Fire_blast", "Rock_slide", "Strength" ]
+}

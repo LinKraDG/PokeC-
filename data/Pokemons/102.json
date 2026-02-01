@@ -1,0 +1,9 @@
+{
+  "id": "102",
+  "name": "Exeggcute",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "psychic",
+  "base_stats": [ 60, 40, 80, 60, 45, 40 ],
+  "moves": [ "Hypnosis", "Stun_spore", "Poison_powder", "Sleep_Powder", "Toxic", "Take_down", "Double_edge", "Psychic", "Double_team", "Self_destruct", "Egg_bomb", "Explosion" ]
+}

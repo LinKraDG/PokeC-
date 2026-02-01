@@ -1,0 +1,9 @@
+{
+  "id": "049",
+  "name": "Venomoth",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "poison",
+  "base_stats": [ 70, 65, 60, 90, 75, 90 ],
+  "moves": [ "Tackle", "Supersonic", "Confusion", "Poison_powder", "Psybeam", "Stun_spore", "Sleep_powder", "Leech_life", "Psychic", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Agility", "Confuse_ray", "Swift", "Flash" ]
+}

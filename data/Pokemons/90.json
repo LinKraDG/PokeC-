@@ -1,0 +1,9 @@
+{
+  "id": "090",
+  "name": "Shellder",
+  "icon": "shell",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 30, 65, 100, 45, 25, 40 ],
+  "moves": [ "Tackle", "Withdraw", "Supersonic", "Aurora_beam", "Leer", "Ice_beam", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Blizzard", "Double_team", "Self_destruct", "Swift", "Explosion", "Surf" ]
+}

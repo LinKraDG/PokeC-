@@ -1,0 +1,9 @@
+{
+  "id": "077",
+  "name": "Ponyta",
+  "icon": "tauros",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 50, 85, 55, 65, 65, 90 ],
+  "moves": [ "Ember", "Tail_whip", "Stomp", "Growl", "Take_down", "Agility", "Toxic", "Body_slam", "Double_edge", "Double_team", "Fire_blast", "Swift" ]
+}

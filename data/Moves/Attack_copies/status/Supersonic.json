@@ -1,0 +1,13 @@
+{
+  "name": "Supersónico",
+  "type": "normal",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 55,
+  "max_pp": 20,
+  "priority": 0,
+  "effect_type": "status_change",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": "confused"
+}

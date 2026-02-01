@@ -1,0 +1,22 @@
+{
+  "name": "Residuos",
+  "type": "poison",
+  "objective": "enemy",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "max_pp": 20,
+  "priority": 0,
+  "contact": false,
+  "have_additional_effect": true,
+  "additional_effect": "status_problem",
+  "additional_effect_stats_amount": null,
+  "status_effect": "poisoned",
+  "additional_effect_prob": 30,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

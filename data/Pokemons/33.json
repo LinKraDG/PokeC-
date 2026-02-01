@@ -1,0 +1,9 @@
+{
+  "id": "033",
+  "name": "Nidorino",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 61, 72, 57, 55, 55, 65 ],
+  "moves": [ "Tackle", "Leer", "Horn_attack", "Poison_sting", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Double_team" ]
+}

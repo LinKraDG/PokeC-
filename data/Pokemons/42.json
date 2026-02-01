@@ -1,0 +1,9 @@
+{
+  "id": "042",
+  "name": "Golbat",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "flying",
+  "base_stats": [ 75, 80, 70, 65, 75, 90 ],
+  "moves": [ "Screech", "Leech_life", "Supersonic", "Bite", "Confuse_ray", "Wing_attack", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Swift" ]
+}

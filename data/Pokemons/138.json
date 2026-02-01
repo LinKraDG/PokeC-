@@ -1,0 +1,9 @@
+{
+  "id": "138",
+  "name": "Omanyte",
+  "icon": "shell",
+  "primary_type": "rock",
+  "secondary_type": "water",
+  "base_stats": [ 35, 40, 100, 90, 55, 35 ],
+  "moves": [ "Water_gun", "Withdraw", "Horn_attack", "Leer", "Hydro_pump", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Double_team", "Surf" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "110",
+  "name": "Weezing",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 65, 90, 120, 85, 70, 60 ],
+  "moves": [ "Tackle", "Smog", "Sludge", "Smoke_screen", "Self_destruct", "Explosion", "Toxic", "Thunderbolt", "Thunder", "Double_team", "Fire_blast" ]
+}

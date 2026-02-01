@@ -1,0 +1,9 @@
+{
+  "id": "146",
+  "name": "Moltres",
+  "icon": "bird",
+  "primary_type": "fire",
+  "secondary_type": "flying",
+  "base_stats": [ 90, 100, 90, 125, 85, 90 ],
+  "moves": [ "Peck", "Leer", "Agility", "Toxic", "Take_down", "Double_edge", "Double_team", "Fire_blast", "Swift" ]
+}

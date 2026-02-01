@@ -1,0 +1,9 @@
+{
+  "id": "117",
+  "name": "Seadra",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 55, 65, 95, 95, 45, 85 ],
+  "moves": [ "Bubble", "Smoke_screen", "Leer", "Water_gun", "Agility", "Hydro_pump", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Double_team", "Swift", "Surf" ]
+}

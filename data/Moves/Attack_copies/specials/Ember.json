@@ -1,0 +1,22 @@
+{
+  "name": "Ascuas",
+  "type": "fire",
+  "objective": "enemy",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "max_pp": 25,
+  "priority": 0,
+  "contact": false,
+  "have_additional_effect": true,
+  "additional_effect": "status_problem",
+  "additional_effect_stats_amount": null,
+  "status_effect": "burned",
+  "additional_effect_prob": 10,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

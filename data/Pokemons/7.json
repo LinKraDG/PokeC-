@@ -1,0 +1,9 @@
+{
+  "id": "007",
+  "name": "Squirtle",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 44, 48, 65, 50, 64, 43 ],
+  "moves": [ "Tackle", "Tail_whip", "Bubble", "Water_gun", "Bite", "Withdraw", "Hydro_pump", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Double_team", "Submission", "Surf", "Strength" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "009",
+  "name": "Blastoise",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 79, 83, 100, 85, 105, 78 ],
+  "moves": [ "Tackle", "Tail_whip", "Bubble", "Water_gun", "Bite", "Withdraw", "Hydro_pump", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Double_team", "Submission", "Earthquake", "Surf", "Strength" ]
+}

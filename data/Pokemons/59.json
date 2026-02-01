@@ -1,0 +1,9 @@
+{
+  "id": "059",
+  "name": "Arcanine",
+  "icon": "tauros",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 90, 110, 80, 100, 80, 95 ],
+  "moves": [ "Bite", "Ember", "Leer", "Take_down", "Agility", "Flamethrower", "Toxic", "Body_slam", "Double_edge", "Double_team", "Fire_blast", "Swift" ]
+}

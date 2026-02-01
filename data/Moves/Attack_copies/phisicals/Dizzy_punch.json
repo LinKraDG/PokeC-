@@ -1,0 +1,22 @@
+{
+  "name": "Puño mareo",
+  "type": "normal",
+  "objective": "enemy",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "max_pp": 10,
+  "priority": 0,
+  "contact": true,
+  "have_additional_effect": true,
+  "additional_effect": "status_change",
+  "additional_effect_stats_amount": null,
+  "status_effect": "confused",
+  "additional_effect_prob": 20,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "068",
+  "name": "Machamp",
+  "icon": "rhydon",
+  "primary_type": "fighting",
+  "secondary_type": "null",
+  "base_stats": [ 90, 130, 80, 65, 85, 55 ],
+  "moves": [ "Low_kick", "Leer", "Karate_chop", "Tackle", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Earthquake", "Double_team", "Fire_blast", "Rock_slide", "Strength" ]
+}

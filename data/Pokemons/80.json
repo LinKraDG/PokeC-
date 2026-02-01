@@ -1,0 +1,9 @@
+{
+  "id": "080",
+  "name": "Slowbro",
+  "icon": "rhydon",
+  "primary_type": "water",
+  "secondary_type": "psychic",
+  "base_stats": [ 95, 75, 110, 100, 80, 30 ],
+  "moves": [ "Confusion", "Headbutt", "Growl", "Water_gun", "Withdraw", "Amnesia", "Psychic", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Pay_day", "Submission", "Hearthquake", "Double_team", "Fire_blast", "Swift", "Thunder_wave", "Surf", "Strength", "Flash" ]
+}

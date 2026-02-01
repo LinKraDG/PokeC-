@@ -1,0 +1,9 @@
+{
+  "id": "107",
+  "name": "Hitmonchan",
+  "icon": "rhydon",
+  "primary_type": "fighting",
+  "secondary_type": "null",
+  "base_stats": [ 50, 105, 79, 35, 110, 76 ],
+  "moves": [ "Agility", "Fire_punch", "Ice_punch", "Thunder_punch", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Double_team", "Swift", "Strength" ]
+}

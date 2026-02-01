@@ -1,0 +1,9 @@
+{
+  "id": "021",
+  "name": "Spearow",
+  "icon": "bird",
+  "primary_type": "normal",
+  "secondary_type": "flying",
+  "base_stats": [ 40, 60, 30, 31, 31, 70 ],
+  "moves": [ "Peck", "Growl", "Leer", "Drill_peck", "Agility", "Toxic", "Take_down", "Double_edge", "Double_team", "Swift" ]
+}

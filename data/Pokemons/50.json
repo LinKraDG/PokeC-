@@ -1,0 +1,9 @@
+{
+  "id": "50",
+  "name": "Diglett",
+  "icon": "rhydon",
+  "primary_type": "ground",
+  "secondary_type": "null",
+  "base_stats": [ 10, 55, 25, 35, 45, 95 ],
+  "moves": [ "Scratch", "Sand_attack", "Growl", "Slash", "Earthquake", "Take_down", "Agility", "Body_slam", "Rock_slide", "Sword_dance", "Double_edge" ]
+}

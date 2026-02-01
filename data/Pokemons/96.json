@@ -1,0 +1,9 @@
+{
+  "id": "096",
+  "name": "Drowzee",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 60, 48, 45, 43, 90, 42 ],
+  "moves": [ "Pound", "Hypnosis", "Confusion", "Headbutt", "Poison_gas", "Psychic", "Meditate", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Double_team", "Thunder_wave", "Flash" ]
+}

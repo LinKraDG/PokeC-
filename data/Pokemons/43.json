@@ -1,0 +1,9 @@
+{
+  "id": "043",
+  "name": "Oddish",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 45, 50, 55, 75, 65, 30 ],
+  "moves": [ "Absorb", "Poison_powder", "Stun_spore", "Sleep_powder", "Acid", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

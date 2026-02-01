@@ -1,0 +1,9 @@
+{
+  "id": "128",
+  "name": "Tauros",
+  "icon": "tauros",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 75, 100, 95, 40, 70, 110 ],
+  "moves": [ "Tackle", "Stomp", "Tail_whip", "Leer", "Take_down", "Toxic", "Body_slam", "Double_edge", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Earthquake", "Double_team", "Fire_blast", "Strength" ]
+}

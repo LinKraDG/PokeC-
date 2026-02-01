@@ -1,0 +1,9 @@
+{
+  "id": "116",
+  "name": "Horsea",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 30, 40, 70, 70, 25, 60 ],
+  "moves": [ "Bubble", "Smoke_screen", "Leer", "Water_gun", "Agility", "Hydro_pump", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Double_team", "Swift", "Surf" ]
+}

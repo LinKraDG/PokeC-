@@ -1,0 +1,9 @@
+{
+  "id": "101",
+  "name": "Electrode",
+  "icon": "ball",
+  "primary_type": "electric",
+  "secondary_type": "null",
+  "base_stats": [ 60, 50, 70, 80, 80, 150 ],
+  "moves": [ "Tackle", "Screech", "Self_destruct", "Swift", "Explosion", "Toxic", "Take_down", "Thunderbolt", "Thunder", "Double_team", "Thunder_wave", "Flash" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "109",
+  "name": "Koffing",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 40, 65, 95, 60, 45, 35 ],
+  "moves": [ "Tackle", "Smog", "Sludge", "Smoke_screen", "Self_destruct", "Explosion", "Toxic", "Thunderbolt", "Thunder", "Double_team", "Fire_blast" ]
+}

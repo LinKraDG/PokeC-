@@ -1,0 +1,6 @@
+{
+  "attack_tipe": "poison",
+  "effective": [ "grass", "fairy" ],
+  "uneffective": [ "poison", "ground", "rock", "ghost" ],
+  "no_effect": [ "steel" ]
+}

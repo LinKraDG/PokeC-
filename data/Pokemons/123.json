@@ -1,0 +1,9 @@
+{
+  "id": "123",
+  "name": "Scyther",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "flying",
+  "base_stats": [ 70, 110, 80, 55, 80, 105 ],
+  "moves": [ "Quick_attack", "Leer", "Double_team", "Slash", "Sword_dance", "Agility", "Wing_attack", "Toxic", "Take_down", "Double_edge", "Swift", "Cut" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "014",
+  "name": "Kakuna",
+  "icon": "bug",
+  "primary_type": "bug",
+  "secondary_type": "poison",
+  "base_stats": [ 45, 25, 50, 25, 25, 35 ],
+  "moves": [ "Poison_sting", "String_shot", "Harden" ]
+}

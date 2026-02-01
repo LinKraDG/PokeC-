@@ -1,0 +1,9 @@
+{
+  "id": "086",
+  "name": "Seel",
+  "icon": "acuatic",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 65, 45, 55, 45, 70, 45 ],
+  "moves": [ "Headbutt", "Growl", "Aurora_beam", "Take_down", "Ice_beam", "Toxic", "Body_slam", "Double_edge", "Bubble_beam", "Water_gun", "Blizzard", "Pay_day", "Double_team", "Surf", "Strength" ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hipnosis",
+  "type": "psychic",
+  "objective": "enemy",
+  "category": "status",
+  "accuracy": 60,
+  "max_pp": 20,
+  "priority": 0,
+  "effect_type": "status_problem",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": "asleep"
+}

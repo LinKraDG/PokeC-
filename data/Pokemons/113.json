@@ -1,0 +1,9 @@
+{
+  "id": "113",
+  "name": "Chansey",
+  "icon": "clefairy",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 250, 5, 5, 35, 105, 50 ],
+  "moves": [ "Pound", "Tail_whip", "Sing", "Growl", "Minimize", "Defense_curl", "Double_edge", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Egg_bomb", "Fire_blast", "Softboiled", "Thunder_wave", "Strength", "Flash" ]
+}

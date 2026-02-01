@@ -1,0 +1,9 @@
+{
+  "id": "081",
+  "name": "Magnemite",
+  "icon": "ball",
+  "primary_type": "electric",
+  "secondary_type": "steel",
+  "base_stats": [ 25, 35, 70, 95, 55, 45 ],
+  "moves": [ "Tackle", "Thunder_shock", "Supersonic", "Thunder_wave", "Swift", "Screech", "Toxic", "Take_down", "Double_edge", "Thunderbolt", "Thunder", "Double_team", "Flash" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "135",
+  "name": "Jolteon",
+  "icon": "tauros",
+  "primary_type": "electric",
+  "secondary_type": "null",
+  "base_stats": [ 65, 65, 60, 110, 95, 130 ],
+  "moves": [ "Tail_whip", "Tackle", "Sand_attack", "Growl", "Quick_attack", "Bite", "Thunder_shock", "Thunder_wave", "Agility", "Thunder", "Toxic", "Body_slam", "Take_down", "Double_edge", "Thunderbolt", "Double_team", "Swift", "Flash" ]
+}

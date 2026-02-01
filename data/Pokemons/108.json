@@ -1,0 +1,9 @@
+{
+  "id": "108",
+  "name": "Lickitung",
+  "icon": "rhydon",
+  "primary_type": "normal",
+  "secondary_type": "null",
+  "base_stats": [ 90, 55, 75, 60, 75, 30 ],
+  "moves": [ "Supersonic", "Stomp", "Defense_curl", "Slam", "Screech", "Mega_punch", "Sword_dance", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Thunderbolt", "Thunder", "Earthquake", "Double_team", "Fire_blast", "Cut", "Surf", "Strength" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "064",
+  "name": "Kadabra",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "null",
+  "base_stats": [ 40, 35, 30, 120, 70, 105 ],
+  "moves": [ "Kinesis", "Confusion", "Psybeam", "Recover", "Psychic", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Earthquake", "Double_team", "Thunder_wave", "Flash" ]
+}

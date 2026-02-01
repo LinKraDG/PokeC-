@@ -1,0 +1,9 @@
+{
+  "id": "041",
+  "name": "Zubat",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "flying",
+  "base_stats": [ 40, 45, 35, 30, 40, 55 ],
+  "moves": [ "Leech_life", "Supersonic", "Bite", "Confuse_ray", "Wing_attack", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Swift" ]
+}

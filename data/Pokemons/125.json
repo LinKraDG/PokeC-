@@ -1,0 +1,9 @@
+{
+  "id": "125",
+  "name": "Electabuzz",
+  "icon": "rhydon",
+  "primary_type": "electric",
+  "secondary_type": "null",
+  "base_stats": [ 65, 83, 57, 95, 85, 105 ],
+  "moves": [ "Quick_attack", "Leer", "Thunder_shock", "Screech", "Thunder_punch", "Thunder", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Thunderbolt", "Psychic", "Double_team", "Swift", "Thunder_wave", "Strength", "Flash" ]
+}

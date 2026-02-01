@@ -1,0 +1,9 @@
+{
+  "id": "069",
+  "name": "Bellsprout",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 50, 75, 35, 70, 30, 40 ],
+  "moves": [ "Vine_whip", "Growth", "Poison_powder", "Sleep_powder", "Stun_spore", "Acid", "Slam", "Sword_dance", "Toxic", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

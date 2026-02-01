@@ -1,0 +1,9 @@
+{
+  "id": "035",
+  "name": "Clefairy",
+  "icon": "clefairy",
+  "primary_type": "fairy",
+  "secondary_type": "null",
+  "base_stats": [ 70, 45, 48, 60, 65, 35 ],
+  "moves": [ "Pound", "Growl", "Sing", "Minimize", "Defense_curl", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Submission", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Fire_blast", "Thunder_Wave", "Strength", "Flash" ]
+}

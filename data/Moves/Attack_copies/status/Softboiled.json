@@ -1,0 +1,13 @@
+{
+  "name": "Ovocuración",
+  "type": "normal",
+  "objective": "user",
+  "category": "status",
+  "accuracy": null,
+  "max_pp": 5,
+  "priority": 0,
+  "effect_type": "heal",
+  "heal_base": "max",
+  "heal_amount": 50,
+  "effect": null
+}

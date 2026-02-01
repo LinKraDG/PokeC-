@@ -1,0 +1,9 @@
+{
+  "id": "030",
+  "name": "Nidorina",
+  "icon": "rhydon",
+  "primary_type": "poison",
+  "secondary_type": "null",
+  "base_stats": [ 70, 62, 67, 55, 55, 56 ],
+  "moves": [ "Tackle", "Growl", "Scratch", "Poison_sting", "Tail_whip", "Bite", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Water_gun", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Double_team" ]
+}

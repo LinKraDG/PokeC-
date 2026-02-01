@@ -1,0 +1,9 @@
+{
+  "id": "051",
+  "name": "Dugtrio",
+  "icon": "rhydon",
+  "primary_type": "ground",
+  "secondary_type": "null",
+  "base_stats": [ 35, 80, 50, 50, 70, 120 ],
+  "moves": [ "Scratch", "Sand_attack", "Growl", "Slash", "Earthquake", "Toxic", "Take_down", "Agility", "Body_slam", "Rock_slide", "Sword_dance", "Double_edge", "Cut" ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "122",
+  "name": "Mr.Mime",
+  "icon": "rhydon",
+  "primary_type": "psychic",
+  "secondary_type": "fairy",
+  "base_stats": [ 40, 45, 65, 100, 120, 90 ],
+  "moves": [ "Confusion", "Meditate", "Mega_punch", "Mega_kick", "Toxic", "Body_slam", "Take_down", "Double_edge", "Submission", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Thunder_wave", "Flash" ]
+}

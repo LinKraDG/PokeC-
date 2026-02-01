@@ -1,0 +1,9 @@
+{
+  "id": "037",
+  "name": "Vulpix",
+  "icon": "tauros",
+  "primary_type": "fire",
+  "secondary_type": "null",
+  "base_stats": [ 38, 41, 40, 50, 65, 65 ],
+  "moves": [ "Ember", "Tail_whip", "Quick_attack", "Confuse_ray", "Flamethrower", "Toxic", "Body_slam", "Take_down", "Double_edge", "Double_team", "Fire_blast", "Swift" ]
+}

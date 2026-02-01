@@ -1,0 +1,9 @@
+{
+  "id": "071",
+  "name": "Victreebel",
+  "icon": "flower",
+  "primary_type": "grass",
+  "secondary_type": "poison",
+  "base_stats": [ 80, 105, 65, 100, 70, 70 ],
+  "moves": [ "Vine_whip", "Growth", "Poison_powder", "Sleep_powder", "Stun_spore", "Acid", "Razor_leaf", "Slam", "Sword_dance", "Toxic", "Body_slam", "Take_down", "Double_edge", "Mega_drain", "Double_team", "Cut" ]
+}

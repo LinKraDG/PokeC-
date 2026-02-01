@@ -1,0 +1,9 @@
+{
+  "id": "093",
+  "name": "Haunter",
+  "icon": "rhydon",
+  "primary_type": "ghost",
+  "secondary_type": "poison",
+  "base_stats": [ 45, 50, 45, 115, 55, 95 ],
+  "moves": [ "Lick", "Confuse_ray", "Hypnosis", "Toxic", "Mega_drain", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Self_destruct", "Explosion" ]
+}

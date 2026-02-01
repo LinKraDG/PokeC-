@@ -1,0 +1,13 @@
+{
+  "name": "Fortaleza",
+  "type": "normal",
+  "objective": "user",
+  "category": "status",
+  "accuracy": null,
+  "max_pp": 30,
+  "priority": 0,
+  "effect_type": "user_stat",
+  "heal_base": null,
+  "heal_amount": null,
+  "effect": [ 0, 0, 1, 0, 0, 0, 0, 0 ]
+}

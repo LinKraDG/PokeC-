@@ -1,0 +1,9 @@
+{
+  "id": "079",
+  "name": "Slowpoke",
+  "icon": "tauros",
+  "primary_type": "water",
+  "secondary_type": "psychic",
+  "base_stats": [ 90, 65, 65, 40, 40, 15 ],
+  "moves": [ "Confusion", "Headbutt", "Growl", "Water_gun", "Amnesia", "Psychic", "Toxic", "Body_slam", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Pay_day", "Hearthquake", "Double_team", "Fire_blast", "Swift", "Thunder_wave", "Surf", "Strength", "Flash" ]
+}

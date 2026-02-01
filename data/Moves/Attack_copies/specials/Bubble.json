@@ -1,0 +1,22 @@
+{
+  "name": "Burbuja",
+  "type": "water",
+  "objective": "enemy",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "max_pp": 30,
+  "priority": 0,
+  "contact": false,
+  "have_additional_effect": true,
+  "additional_effect": "enemy_stat",
+  "additional_effect_stats_amount": [ 0, 0, 0, 0, 0, 1, 0, 0 ],
+  "status_effect": null,
+  "additional_effect_prob": 10,
+  "critical_bonus": false,
+  "have_recoil": false,
+  "recoil_base_damage": null,
+  "recoil_amount": null,
+  "multi_turn": false,
+  "multi_hit": false
+}

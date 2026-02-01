@@ -1,0 +1,9 @@
+{
+  "id": "120",
+  "name": "Staryu",
+  "icon": "shell",
+  "primary_type": "water",
+  "secondary_type": "null",
+  "base_stats": [ 30, 45, 55, 70, 55, 85 ],
+  "moves": [ "Tackle", "Water_gun", "Harden", "Recover", "Swift", "Minimize", "Hydro_pump", "Toxic", "Take_down", "Double_edge", "Bubble_beam", "Ice_beam", "Blizzard", "Thunderbolt", "Thunder", "Psychic", "Double_team", "Thunder_wave", "Surf", "Flash" ]
+}

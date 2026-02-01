@@ -1,0 +1,9 @@
+{
+  "id": "111",
+  "name": "Rhyhorn",
+  "icon": "tauros",
+  "primary_type": "ground",
+  "secondary_type": "rock",
+  "base_stats": [ 80, 85, 95, 30, 30, 25 ],
+  "moves": [ "Horn_attack", "Stomp", "Tail_whip", "Leer", "Take_down", "Toxic", "Body_slam", "Double_edge", "Thunderbolt", "Thunder", "Earthquake", "Double_team", "Fire_blast", "Rock_slide", "Strength" ]
+}

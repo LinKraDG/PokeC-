@@ -1,0 +1,9 @@
+{
+  "id": "085",
+  "name": "Dodrio",
+  "icon": "bird",
+  "primary_type": "normal",
+  "secondary_type": "flying",
+  "base_stats": [ 60, 110, 70, 60, 60, 110 ],
+  "moves": [ "Peck", "Growl", "Leer", "Drill_peck", "Agility", "Toxic", "Body_slam", "Take_down", "Double_edge", "Double_team" ]
+}
